@@ -1,0 +1,3 @@
+[submodule "pydaap"]
+	path = parser/pydaap
+	url = https://github.com/main--/pydaap.git
